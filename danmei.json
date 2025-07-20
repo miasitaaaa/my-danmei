@@ -1,1 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "Mo Dao Zu Shi",
+    "autor": "Mo Xiang Tong Xiu",
+    "estado": "leyendo",
+    "portada": "https://i.imgur.com/A8zBOGz.jpg",
+    "sinopsis": "Wei Wuxian revive después de su trágica muerte y se reencuentra con Lan Wangji.",
+    "favorito": true,
+    "fecha_leido": null
+  },
+  {
+    "id": 2,
+    "titulo": "Tian Guan Ci Fu",
+    "autor": "Mo Xiang Tong Xiu",
+    "estado": "leído",
+    "portada": "https://i.imgur.com/7YV1FQP.jpg",
+    "sinopsis": "Xie Lian, un dios caído, se encuentra con Hua Cheng en su viaje celestial.",
+    "favorito": false,
+    "fecha_leido": "2025-07-10"
+  }
+]
 
